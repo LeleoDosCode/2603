@@ -6,7 +6,7 @@ import { Link } from 'expo-router';
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text>Início</Text>
+      <Text>Sobre</Text>
       <StatusBar style="auto" />
     </View>
   );
